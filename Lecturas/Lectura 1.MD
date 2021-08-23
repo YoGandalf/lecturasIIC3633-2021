@@ -26,7 +26,7 @@ otras tareas).
 
 En este sentido, el *implicit ranking* puede mejorar considerablemente su punto débil. De entre
 todos los tópicos usados, este es el que veo más fácil de corregir, aunque suela ser considerado
-el más difícil. De hecho, plataformas como YouTube ya lo están considerando, al preguntar al usuario
+el más difícil. De hecho, algunas plataformas ya lo están considerando (como dice el *paper*), al preguntar al usuario
 no solo por la calificación del producto, sino por el porqué de la misma, utilizando calificación
 semántica y no solo numérica, o como llama el paper luego, *tags*.
 
