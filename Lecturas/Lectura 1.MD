@@ -1,9 +1,9 @@
 # Resumen
 
-El *paper* toca muchos de los temas relacionados a los sistemas recomendadores desde el principio,
-dando pros y contras de cada uno de ellos. Ningún tema lo aborda en profundidad, pero sí menciona
-los principales desafíos desde un punto de vista filosófico (el qué y el porqué). En esta misma
-línea, termina con preguntas abiertas, las cuales se deducen de muchos de los temas discutidos.
+El *paper* toca muchos (casi todos) de los temas relacionados a los sistemas recomendadores desde
+su principio, dando pros y contras de cada uno de ellos. Ningún tema lo aborda en profundidad, per
+sí menciona los principales desafíos desde un punto de vista filosófico (el qué y el porqué). En esta
+misma línea, termina con preguntas abiertas, las cuales se deducen de muchos de los temas discutidos.
 
 
 # Crítica
