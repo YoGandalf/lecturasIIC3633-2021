@@ -9,19 +9,20 @@ las cuales se deducen de muchos de los temas discutidos.
 
 # Crítica
 
-Es interesante el punto que dice que antes los sistemas recomendadores eran algo en sí mismos
+Es interesante el punto que dice que antes los sistemas recomendadores funcionaban en sí mismos
 y no como ayuda de una aplicación, ya que el mundo cada vez valora más la especificidad, y este
-proceso ha sido inverso. Creo que, a medida que vayan mejorando los sistemas, se va a volver a
+proceso ha sido inverso. Pienso que a medida que vayan mejorando los sistemas, se va a volver a
 la idea de un recomendador en sí mismo, como pasa con Reddit, que cada vez toma más protagonismo.
 
 Creo que esto tiene que ver con la capacidad, actualemente poco explorada, de los sistemas de
 recomendar ítems para situaciones específicas. Esto ya que, dado que no existe aún una lógica
 causal (como se ve en este [*paper*](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2307-21132013000100006)),
-es necesario entregarle nosotros a la máquina el conocimeinto que ella no puede alcanzar
+es necesario entregarle nosotros a la máquina el conocimiento que ella no puede alcanzar
 por sí misma. La comunidad científica siempre pensó en términos causales hasta la invención del
 computador. Ahí se ocupó toda la fuerza correlacional de la tecnología. Es momento de unir ambas
 cosas, con lo mejor de cada una. Por eso, creo que si somos capaces de entregarle a la máquina un
-conocimiento a priori, seremos capaces de recomendar mejor (y muchas otras tareas).
+conocimiento a priori (análogo al estudio bayesiano), seremos capaces de recomendar mejor (y muchas
+otras tareas).
 
 En este sentido, el *implicit ranking* puede mejorar considerablemente su punto débil. De entre
 todos los tópicos usados, este es el que veo más fácil de corregir, aunque suela ser considerado
