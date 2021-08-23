@@ -14,7 +14,8 @@ la idea de un recomendador en sí mismo, como pasa con Reddit, que cada vez toma
 
 Creo que esto tiene que ver con la capacidad, actualemente poco explorada, de los sistemas de
 recomendar ítems para situaciones específicas. Esto ya que, dado que no existe aún una lógica
-causal, es necesario entregarle nosotros a la máquina el conocimeinto que ella no puede alcanzar
+causal (como se ve en este [*paper*](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2307-21132013000100006)),
+es necesario entregarle nosotros a la máquina el conocimeinto que ella no puede alcanzar
 por sí misma. La comunidad científica siempre pensó en términos causales hasta la invención del
 computador. Ahí se ocupó toda la fuerza correlacional de la tecnología. Es momento de unir ambas
 cosas, con lo mejor de cada una. Por eso, creo que si somos capaces de entregarle a la máquina un
