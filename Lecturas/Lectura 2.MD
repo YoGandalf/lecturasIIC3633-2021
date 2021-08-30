@@ -15,6 +15,10 @@ Lo único que me hace algo de ruido es que debiera haber un algoritmo más expl�
 cuántos imputar, y no solo mencionarlo, porque creo que lo mejor es buscar el equilibrio entre la total eliminación
 y la total imputación, que en algunos casos puede ser alguno de los dos extremos.
 
+También creo que es muy interesante el tema de los *latent factors*, que, aunque creo que están bien llevados desde
+el punto de vista de la computación, creo que se debiera tomar mucho en cuenta desde el punto de vista lógico humano,
+para poder lograr entenderlo de un mejor modo, y poder indagar en él.
+
 Es también interesante el tema de los *temporal dynamics*, y creo que debiera haber sido considerado desde el
 comienzo del estudio. Sin embargo, creo que aún faltan algunas cosas por tomar en cuenta, y de entre
 ellas, la más importante es la capacidad de influencia que tiene el propio sistema de recomendación sobre
