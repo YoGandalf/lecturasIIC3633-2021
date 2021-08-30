@@ -1,6 +1,6 @@
 # Resumen
 
-El *paper* habla de los sistemas anteriores a los de *matrix factrization*, y luego explica por qué
+El *paper* habla de los sistemas anteriores a los de *matrix factorization*, y luego explica por qué
 este es tan conveniente. Luego explica algunas variaciones del mismo, que aportan exactitud pero exigen
 mayor capacidad de cómputo, como los *bias*, *signal sources*, *temporal dynamics*, etc. Luego, terminan
 con el ejemplo de Netflix.
