@@ -25,7 +25,7 @@ ellas, la más importante es la capacidad de influencia que tiene el propio sist
 los usuarios. Lo digo porque a mí me ha pasado que YouTube me recomienda constantemente un video que en
 principio no me llama la atención, pero ante la insistencia decido verlo, sea por confianza en el sistema
 de recomendación, sea porque es el primero que aparece en el *feed*, o por cualquier otro motivo.
-Entonces YouTube tiene a premiar su sistema, pensando que fue una buena recomendación, siendo que algunas
+Entonces YouTube tiende a premiar su sistema, pensando que fue una buena recomendación, siendo que algunas
 veces (otras sí) no lo fue.
 
 En el tema del *dot product*, creo que falta una variable. Y es que se toma en cuenta la dirección de ambos
