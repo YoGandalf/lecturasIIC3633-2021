@@ -32,4 +32,4 @@ En el tema del *dot product*, creo que falta una variable. Y es que se toma en c
 vectores (el coseno), y también la longitud de ambos. Sin embargo no se toma en cuenta la diferencia (o proporción
 o cualquier métrica de este tipo) de los vectores. Y creo que es un error, porque un usuario puede estar en la misma
 dirección que un ítem, pero no necesariamente por eso estarán cerca. Encuentro incluso más adecuado ocupar una
-norma *p* cualquiera, si no se toma en cuenta la distancia entre ellos.
+norma *p* cualquiera, si no se toma en cuenta de otro modo la distancia entre ellos.
