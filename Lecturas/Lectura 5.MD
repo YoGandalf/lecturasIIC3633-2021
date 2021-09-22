@@ -1,0 +1,5 @@
+# Resumen
+El *paper* es bastante simple en cuanto a su estructura, y creo que lo más relevante es su idea central (el *blending*) y la discusión de los resultados, aunque paradójicamente sea una seccion muy corta. El resto solo es la aplicación de métodos ya conocidos e ideas tradicionales como la regresión lineal.
+
+# Crítica
+Creo que el análisis debe realizarse más sobre el tiempo de ejecución que de los resultados de las métricas, ya que si el modo de llevarlo a cabo es como combinación lineal de los distintos métodos (que es el propuesto), para luego entrar a optimizar las constantes, ese rendimiento será mejor o igual que el de un método solo, ya que una posible combinación es con todos 0 excepto el que acompaña al método deseado, que sería igual a 1. Es decir, este modo nunca empeorará el rendimiento, supuesto que los parámetros efectivamente se optimizan en el rendimiento de las métricas.
